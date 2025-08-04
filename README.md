@@ -1,2 +1,2 @@
-# Pratana Nusantara Diary - Customer Segmentation Analysis
+# Pratama Nusantara Diary - Customer Segmentation Analysis
 This project analyze customer segmentation from sales dataset.
